@@ -1,0 +1,51 @@
+.hola {
+    background-color: rgb(172, 196, 68);
+    height: 325px;
+    width: 250px;
+    margin: 5px;
+    padding: 1px;
+    border: 3px solid rgb(54, 146, 26);
+    border-radius: 10px;
+}
+h1{
+    color: aliceblue;
+    text-shadow: 1px 1px 2px black;
+}
+h2{
+    color: aliceblue;
+    text-shadow: 1px 1px 2px black;
+}
+
+h4{
+    color: aliceblue;
+    text-shadow: 1px 1px 2px black;
+}
+p{
+    color: aliceblue;
+    text-shadow: 1px 1px 2px black;
+}
+label{
+    color: azure;
+    text-shadow: 1px 1px 2px black;
+}
+
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: space-around;
+    padding: 3px;
+    margin: 0px;
+    color: rgb(158, 12, 12);
+
+}
+
+.imag {
+    height: 110px;
+    width: 180px;
+    margin: 1px;
+    padding: 3px;
+    border: 2px solid black;
+}

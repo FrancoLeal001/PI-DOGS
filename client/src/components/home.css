@@ -1,0 +1,21 @@
+.conteiner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 15px;
+}
+body{
+    background-image: url("https://static.elcorreo.com/www/multimedia/202204/29/media/cortadas/razas-perros-kGnD--984x468@RC.jpg");
+    background-size: 150%;
+    background-repeat: no-repeat;
+}
+
+.hpfilter {
+    margin-top: 8px;
+    border: 2px solid black;
+    height: 40px;
+    background-color: wheat;
+    cursor: grab;
+}

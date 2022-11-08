@@ -1,0 +1,17 @@
+.paginado {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    width: 100vw;
+    flex-wrap: wrap;
+
+
+}
+
+li {
+    list-style: none;
+    color: red;
+}
+
+
