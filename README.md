@@ -41,7 +41,7 @@ donde ``DB_USER`` es el usuario de su base de datos, ``DB_PASSWORD`` es la passw
 
 
 ### **Sí presiona en la imagen de alguna raza de perro, podrá entrar a ver los detalles del mismo y se vería algo asi:**
-![presentacion app](https://github.com/FrancoLeal001/PI-DOGS/blob/main/client/src/components/imagenes/Dog2.PNG)
+![presentacion app](https://github.com/FrancoLeal001/PI-DOGS/blob/main/client/src/components/imagenes/dog2.PNG)
 
 ### **En caso de querer volver podrá hacerlo mediante el botón ``Atrás``.
 
