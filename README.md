@@ -31,7 +31,8 @@ DB_HOST=
 donde ``DB_USER`` es el usuario de su base de datos, ``DB_PASSWORD`` es la password de su base de datos, ``DB_HOST`` es el host de su base de datos pero en este caso ingresaremos ``localhost``
 
 6. Luego que se hayan instalado todas las librerias con el paso anterior desde la carpeta **/api** ejecutar el comando `npm start` para inciar el backend del proyecto, igualmente hacer ``npm start`` en /client  para iniciarlo
-7. luego de esto, abrir el navegador en http://localhost:3000 en el navegador
+7. luego de esto, abrir el navegador en http://localhost:3000 en el navegador e ingresar
 
 ## Resultados 
 ### **Sí ha completado los pasos exitosamente en su navegador deberia visualizar una aplicacion como esta:**
+
