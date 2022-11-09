@@ -39,3 +39,10 @@ donde ``DB_USER`` es el usuario de su base de datos, ``DB_PASSWORD`` es la passw
 
 ### **Llegado a este punto ya podra visualizar detalles, filtrar por nombre, peso o temperamento y crear nuevas razas que se guardaran en la base de datos configuradas en el ``.env``**
 
+
+### **Sí presiona en la imagen de alguna raza de perro, podrá entrar a ver los detalles del mismo y se vería algo asi:**
+![presentacion app](https://github.com/FrancoLeal001/PI-DOGS/blob/main/client/src/components/imagenes/Dog2.PNG)
+
+### **En caso de querer volver podrá hacerlo mediante el botón ``Atrás``.
+
+
